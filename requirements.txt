@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+google-generativeai
+chromadb
+pypdf
+python-docx
+python-multipart
+pydantic
+diskcache
+loguru
+watchdog
+aiofiles
